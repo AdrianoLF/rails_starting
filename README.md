@@ -1,0 +1,3 @@
+# README
+
+# rails_starting
